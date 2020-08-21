@@ -1,7 +1,4 @@
 ### What's Up? I'm Pedro Martins! 👋
-
-<br/>
-
 <a href="https://www.linkedin.com/in/pedrohbmartins/">
   <img align="center" alt="Pedro's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
