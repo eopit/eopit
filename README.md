@@ -9,8 +9,6 @@
   <img align="center" alt="Pedro's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
 
-<br/>
-
 Hello! My name is Pedro Martins and I'm a brazilian *most focused* back-end developer :computer:. Currently studying Information Systems at Senac University Centre, my goal is learn as much as I can to be able to apply my gathered knowledges on my work and personal projects :rocket:.
 
 <br/>
