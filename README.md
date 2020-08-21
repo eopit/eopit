@@ -13,6 +13,8 @@
 
 Hello! My name is Pedro Martins and I'm a brazilian *most focused* back-end developer :computer:. Currently studying Information Systems at Senac University Centre, my goal is learn as much as I can to be able to apply my gathered knowledges on my work and personal projects :rocket:.
 
+<br/>
+
 #### Favorite Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 </code>
